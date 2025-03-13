@@ -1,7 +1,7 @@
 # Calmly
 
 ## Overview
-This project is a mobile application designed to provide a compassionate AI mental health companion. The AI assistant helps users express their emotions and psychological concerns, offering empathetic support and encouragement. It does not provide medical advice or diagnosis and is not a replacement for professional help.
+This project is a work in progress mobile application designed to provide a compassionate AI mental health companion. The AI assistant helps users express their emotions and psychological concerns, offering empathetic support and encouragement. It does not provide medical advice or diagnosis and is not a replacement for professional help.
 
 ## Features
 - Active listening and emotional validation
